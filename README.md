@@ -2,7 +2,6 @@
 
 - 👩‍💻 I’m a full stack web developer.
 - 🔭 I currently developing web applications using JavaScript, HTML, CSS, React, Node.js, Express and MySQL.
-- 🌱 I’m currently learning Java.
 - 📫 How to reach me: 
 ##### LinkedIn: www.linkedin.com/in/mónicagarcíamoreno | E-mail: monica.garcia.moreno@correounivalle.edu.co
 
