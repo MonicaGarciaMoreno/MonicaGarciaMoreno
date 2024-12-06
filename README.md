@@ -1,6 +1,6 @@
 ### Hi there, I’m Mónica 👋
 
-- 👩‍💻 I’m a full stack web developer.
+- 👩‍💻 I’m a fronted developer.
 - 🔭 I currently developing web applications using JavaScript, HTML, CSS, React, Node.js, Express and MySQL.
 - 📫 How to reach me: 
 ##### LinkedIn: www.linkedin.com/in/mónicagarcíamoreno | E-mail: monica.garcia.moreno@correounivalle.edu.co
